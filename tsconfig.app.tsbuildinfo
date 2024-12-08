@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/alerts/WalletConnectError.tsx","./src/components/footer/Footer.tsx","./src/components/navbar/Navbar.tsx","./src/components/sidebar/Sidebar.tsx","./src/pages/apps/AppsPage.tsx","./src/pages/home/Home.tsx","./src/pages/leaderboard/leader.tsx","./src/pages/wallet/WalletPage.tsx"],"version":"5.7.2"}
